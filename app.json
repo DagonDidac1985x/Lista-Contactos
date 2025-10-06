@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Lista-Contactos",
+    "slug": "Lista-Contactos",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/lista.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/LogoJapon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/LogoJapon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/LogoJapon.png"
+    }
+  }
+}
